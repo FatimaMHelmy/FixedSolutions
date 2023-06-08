@@ -1,7 +1,9 @@
 # FixedSolutions
 # Marketing-Compaign Effect on Sales Analysis
 
-This repository contains a Jupyter Notebook (Untitled14.ipynb) that performs an analysis on the effect of advertisement on sales in a company. The notebook utilizes various libraries for data processing, visualization, and modeling.
+This repository contains a  Notebook  that performs an analysis on the effect of advertisement on sales in a company. The notebook utilizes various libraries for data processing, visualization, and modeling.
+
+##  !!! Prefered to open the notebook in colab as the data report  gives a good visualization only in colab 
 
 ## Installation
 
