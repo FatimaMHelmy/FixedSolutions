@@ -33,11 +33,11 @@ The objective of this analysis is to discuss the effect of advertisement on sale
 
 6. Model Evaluation: The notebook provides a classification report for evaluating the performance of a machine learning model. It uses the `Pipeline` class from `scikit-learn` for preprocessing and the `train_test_split` function to split the data into training and testing sets. The model's performance is evaluated using precision, recall, and F1-score metrics.
 
-7. Conclusion: The notebook concludes with a summary of the findings from the analysis and discusses the impact of advertisement on sales in the company.
+## Analysis  Conclusion: T
+he notebook concludes with a summary of the findings from the analysis and discusses the impact of advertisement on sales in the company.
 
-## Note
+- Increase the number of promotions: The analysis indicates that promotions have a positive impact on offer acceptance. Therefore, increasing the frequency and intensity of promotions may lead to higher acceptance rates.
 
-- Make sure to have the dataset file "full_gen_data.csv" available in the specified path or modify the code to load the dataset from a different location if needed.
-- Adjust the code as per your requirements and dataset structure if necessary.
+- Focus on months with high offer acceptance: The months of 1, 2, 3, 6, 7, 8, 9, and 12 show a higher acceptance rate. Allocating more resources and efforts towards promotions during these months may yield better results.
 
-Feel free to explore the notebook and modify it to suit your analysis needs.
+However, it is important to note that the analysis was limited due to the lack of connection with the customer. The provided data description was not sufficient to extract deeper insights.
