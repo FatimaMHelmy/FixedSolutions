@@ -49,6 +49,8 @@ The classification report was generated to provide a comprehensive evaluation of
 
 The evaluation results are as follows:
 
+![eval](https://github.com/FatimaMHelmy/FixedSolutions/blob/main/evaluation.png)
+
 ## Analysis  Conclusion: 
 
 he notebook concludes with a summary of the findings from the analysis and discusses the impact of advertisement on sales in the company.
