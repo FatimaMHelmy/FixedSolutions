@@ -31,9 +31,26 @@ The objective of this analysis is to discuss the effect of advertisement on sale
 
 5. Visualization: The notebook generates various bar graphs to visualize the count and normalized count of offers accepted based on different factors such as promotions, gender, sizes, countries, and product groups.
 
-6. Model Evaluation: The notebook provides a classification report for evaluating the performance of a machine learning model. It uses the `Pipeline` class from `scikit-learn` for preprocessing and the `train_test_split` function to split the data into training and testing sets. The model's performance is evaluated using precision, recall, and F1-score metrics.
+6. Model Training:
 
-## Analysis  Conclusion: T
+The LightGBM classifier was chosen as the machine learning algorithm for this task.
+
+A pipeline was built, consisting of a scaler and the LightGBM classifier.
+
+The pipeline was fitted on the scaled training data.
+
+7. Model Evaluation:
+
+The trained model was evaluated using the test set.
+
+The accuracy score, precision, recall, and F1-score were calculated as evaluation metrics.
+
+The classification report was generated to provide a comprehensive evaluation of the model's performance.
+
+The evaluation results are as follows:
+
+## Analysis  Conclusion: 
+
 he notebook concludes with a summary of the findings from the analysis and discusses the impact of advertisement on sales in the company.
 
 - Increase the number of promotions: The analysis indicates that promotions have a positive impact on offer acceptance. Therefore, increasing the frequency and intensity of promotions may lead to higher acceptance rates.
